@@ -42,7 +42,7 @@ li {
 }
 
 .girl {
-  background-image: url("png/girl2.png");
+  background-image: url("../png/girl2.png");
   background-size: cover;
   background-repeat: no-repeat;
   max-width: 100%;
@@ -66,7 +66,7 @@ li {
 
 .services-list .checklist::before {
   content: "";
-  background: url("png/check.png");
+  background: url("../png/check.png");
   width: 25px;
   height: 25px;
   background-size: cover;
@@ -95,14 +95,14 @@ li {
 .prev-icon {
   width: 50px;
   height: 50px;
-  background-image: url("svg/left_button_off.svg");
+  background-image: url("../svg/left_button_off.svg");
   display: block;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .prev-icon:hover {
-  background-image: url("svg/left_button_on.svg");
+  background-image: url("../svg/left_button_on.svg");
 }
 
 .carousel-nav {
@@ -119,19 +119,19 @@ li {
 }
 
 .prev-icon {
-  background-image: url("svg/left_button_off.svg");
+  background-image: url("../svg/left_button_off.svg");
 }
 
 .prev-icon:hover {
-  background-image: url("svg/left_button_on.svg");
+  background-image: url("../svg/left_button_on.svg");
 }
 
 .next-icon {
-  background-image: url("svg/right_button_off.svg");
+  background-image: url("../svg/right_button_off.svg");
 }
 
 .next-icon:hover {
-  background-image: url("svg/right_button_on.svg");
+  background-image: url("../svg/right_button_on.svg");
 }
 
 .rounded-circle {
